@@ -1,0 +1,17 @@
+{
+  "name": "json-types",
+  "version": "1.0.0",
+  "description": "a converter json to types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "types",
+    "typescript",
+    "converter"
+  ],
+  "author": "indaam <indaam@gmail.com>",
+  "license": "MIT"
+}
